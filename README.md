@@ -214,6 +214,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Hightouch](https://hightouch.io)
     - [Omnata](https://omnata.com)
     - [Polytomic](https://www.polytomic.com)
+    - [Hevo](https://hevodata.com/activate/)
 
 
 - ### 10. Data Platforms
